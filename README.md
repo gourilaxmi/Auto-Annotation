@@ -1,6 +1,4 @@
 # Automated Curation, Vision Training & LLM Data Auditing
-**Augle AI — AI/ML Engineering Intern Assignment**
-
 ---
 
 ## Overview
